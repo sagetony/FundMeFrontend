@@ -1,0 +1,27 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\SAGETONY\.node\corepack\yarn\1.22.15\bin\yarn.js add --dev prettier-rc
+
+PATH: 
+  C:\Users\SAGETONY\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\SAGETONY\bin;C:\xampp\php;C:\Users\SAGETONY\AppData\Roaming\Composer;C:\Users\SAGETONY\AppData\Roaming\Composer\vendor\bin;C:\composer;C:\Program Files\nodejs;C:\Program Files\PuTTY;C:\Program Files\dotnet;C:\xampp\php;C:\Users\SAGETONY\AppData\Roaming\npm;C:\Users\SAGETONY\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.22.15
+
+Node version: 
+  16.13.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: getaddrinfo EAI_AGAIN registry.yarnpkg.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

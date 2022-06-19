@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "http-server": "^14.1.1",
+    "prettier": "^2.7.1",
+    "prettierrc": "^0.0.0-5"
+  }
+}
